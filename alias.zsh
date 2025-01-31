@@ -254,4 +254,4 @@ alias mgcv='mutagen compose version'
 alias mgcx='mutagen compose stop'
 
 # Additional
-command -v lazydocker >/dev/null 2>&1 && alias ldk='lazydocker'
+alias ldk='lazydocker'
